@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 application
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:4:4-34:19
-MERGED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
-MERGED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:4:4-34:19
+MERGED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-17:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\dougl\.gradle\caches\transforms-3\d42a1919f41e604a4c806aaaeba6bf29\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
@@ -20,14 +20,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\do
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] C:\Users\dougl\.gradle\caches\transforms-3\6710ee2e3546b398da00e75003abfc33\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:name
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-MERGED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-MERGED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
+ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\dougl\.gradle\caches\transforms-3\d42a1919f41e604a4c806aaaeba6bf29\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
@@ -49,33 +49,33 @@ MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dougl\.gradle\caches\trans
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dougl\.gradle\caches\transforms-3\c6290d38a27dcf8d064fa9cefcb89071\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dougl\.gradle\caches\transforms-3\b0ed3bc1190a335fc620be73cef0fa31\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dougl\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml:1:1-8:12
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml:1:1-8:12
 	package
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:2:5-32
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:1-35:12
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:3:5-80
+ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:3:5-80
 	android:name
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml:3:22-78
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml:3:22-78
 uses-sdk
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-MERGED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+MERGED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\246793f755122fe14a5802655438cb75\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
@@ -118,32 +118,32 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dougl\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dougl\.gradle\caches\transforms-3\b0ed3bc1190a335fc620be73cef0fa31\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dougl\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dougl\.gradle\caches\transforms-3\ed9734c73cdec898947618088fbe87b0\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml:7:5-66
+ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from C:\Users\dougl\OneDrive\Documentos\Clima_App_github\android\app\src\debug\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\dougl\Documents\github\Clima\android\app\src\debug\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
+ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-77
 	android:name
-		ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
+		ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-74
 service#com.baseflow.geolocator.GeolocatorLocationService
-ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
+ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-16:56
 	android:enabled
-		ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
+		ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-35
 	android:exported
-		ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
+		ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-37
 	android:foregroundServiceType
-		ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
+		ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:13-53
 	android:name
-		ADDED from [:geolocator_android] C:\Users\dougl\OneDrive\Documentos\Clima_App_github\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
+		ADDED from [:geolocator_android] C:\Users\dougl\Documents\github\Clima\build\geolocator_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-77
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\dougl\.gradle\caches\transforms-3\49bc944d29f70d45aa5add8e43e3247e\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
 	android:required

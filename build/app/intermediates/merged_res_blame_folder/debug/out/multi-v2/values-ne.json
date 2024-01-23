@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\dougl\\OneDrive\\Documentos\\Clima_App_github\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "C:\\Users\\dougl\\Documents\\github\\Clima\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\dougl\\.gradle\\caches\\transforms-3\\f568b3e0e4b3738147ed358a145ad2d6\\transformed\\jetified-play-services-base-18.1.0\\res\\values-ne\\values.xml",

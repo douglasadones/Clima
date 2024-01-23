@@ -1,0 +1,1 @@
+ C:\\Users\\dougl\\Documents\\github\\Clima\\.dart_tool\\flutter_build\\0ea60d767fab871c9b4aa04c6aec801c\\native_assets.yaml: 
